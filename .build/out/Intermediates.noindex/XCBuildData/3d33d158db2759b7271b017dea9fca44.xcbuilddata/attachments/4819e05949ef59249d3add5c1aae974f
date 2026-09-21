@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests-primary.swiftdeps"
+  },
+  "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/casey/Documents/Dev/ShowControlCore/Tests/ShowControlCoreTests/ShowControlCoreTests.swift" : {
+    "const-values" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.swiftconstvalues",
+    "dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.d",
+    "diagnostics" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.dia",
+    "index-unit-output-path" : "/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.o",
+    "llvm-bc" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.bc",
+    "object" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.o",
+    "swift-dependencies" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests.swiftdeps",
+    "swiftmodule" : "/Users/casey/Documents/Dev/ShowControlCore/.build/out/Intermediates.noindex/ShowControlCore.build/Debug/ShowControlCoreTests-p.build/Objects-normal/arm64/ShowControlCoreTests~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,11 @@
+Target dependency graph (4 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'ShowControlCoreTests-product' in project 'ShowControlCore'
+➜ Dependency on target 'ShowControlCoreTests-product' in project 'ShowControlCore' via transitive dependency through 'ShowControlCoreTests-test-runner'
+➜ Explicit dependency on target 'ShowControlCore-product' in project 'ShowControlCore'
+➜ Explicit dependency on target 'ShowControlCore' in project 'ShowControlCore'
+Target 'ShowControlCore-product' in project 'ShowControlCore'
+➜ Explicit dependency on target 'ShowControlCore' in project 'ShowControlCore'
+Target 'ShowControlCoreTests-product' in project 'ShowControlCore'
+➜ Explicit dependency on target 'ShowControlCore' in project 'ShowControlCore'
+Target 'ShowControlCore' in project 'ShowControlCore' (no dependencies)
