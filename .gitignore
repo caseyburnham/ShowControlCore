@@ -1,0 +1,6 @@
+.DS_Store
+
+# Swift Package Manager and Xcode per-user state
+.build/
+.swiftpm/xcode/xcuserdata/
+xcuserdata/
