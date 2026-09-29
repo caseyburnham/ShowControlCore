@@ -5,11 +5,11 @@
       "name" : "ShowControlCore",
       "path" : "/Users/casey/Documents/Dev/ShowControlCore",
       "projects" : [
-        "4c97a32106d5a33f5b44ab3288b8e180b688fa79dc3be58779688e9d9949e314",
+        "f1b3b117647fea713ac3282878448b3e63c2a521152d74e970c3354e556d8424",
         "587aca01501705afbdf0015b55fe1df97330b5e6463a0b468fb2b34f618f370f"
       ]
     },
-    "signature" : "f68acaee7c90f91de87aea55c8f526fe2a68545fab60f09bdd7ea980863a63b8",
+    "signature" : "08759b8225de43ad016730b2b578432c8fa3a5c198ec676b7a8d52b99d098729",
     "type" : "workspace"
   },
   {
@@ -224,6 +224,22 @@
               {
                 "fileType" : "sourcecode.swift",
                 "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_3::REF_0",
+                "name" : "OSC.swift",
+                "path" : "OSC.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_3::REF_1",
+                "name" : "OSCCodec.swift",
+                "path" : "OSCCodec.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_3::REF_2",
                 "name" : "ShowControlCore.swift",
                 "path" : "ShowControlCore.swift",
                 "sourceTree" : "<group>",
@@ -241,6 +257,22 @@
               {
                 "fileType" : "sourcecode.swift",
                 "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_4::REF_0",
+                "name" : "OSC.swift",
+                "path" : "OSC.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_4::REF_1",
+                "name" : "OSCCodec.swift",
+                "path" : "OSCCodec.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:showcontrolcore::MAINGROUP::REF_4::REF_2",
                 "name" : "ShowControlCore.swift",
                 "path" : "ShowControlCore.swift",
                 "sourceTree" : "<group>",
@@ -269,12 +301,12 @@
         "8f1ec43327db2a68b6f05732d51104fe1e71eacdf9567d6ebf0497caab52f4db",
         "5c051e12eb481fa335f0c3c3d5b67a28747c58482674cad06fdb876bbd2973c9",
         "e4e97000d67342c3551ba22658e43eb15ad7fa66ffee7d7b934422c091f72d15",
-        "b9a5d94da0a21ec915534d27f8cfd188ad254f4b4b995814324d6311d75bdc54",
-        "f79dd10751d9be15ef009f46076c91bb711a1ff7bd035fd77f5e30337fd883fd",
+        "b56ee871dbe5e20d68af63d86212869ae69b6a0987fd68c1723e137f0392230a",
+        "c3cefed6a5e82bbd8a66f386e3815b58ece1ae19e98017dcc16ddeb2af6c7e8e",
         "d58b838dc7df79772bd3b4d72cd1c77339dd1dd8d1b22778e3fea353126524d4"
       ]
     },
-    "signature" : "4c97a32106d5a33f5b44ab3288b8e180b688fa79dc3be58779688e9d9949e314",
+    "signature" : "f1b3b117647fea713ac3282878448b3e63c2a521152d74e970c3354e556d8424",
     "type" : "project"
   },
   {
@@ -834,6 +866,24 @@
 
               ],
               "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:showcontrolcore::MAINGROUP::REF_3::REF_1",
+              "guid" : "PACKAGE-TARGET:ShowControlCore::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:showcontrolcore::MAINGROUP::REF_3::REF_2",
+              "guid" : "PACKAGE-TARGET:ShowControlCore::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
             }
           ],
           "guid" : "PACKAGE-TARGET:ShowControlCore::BUILDPHASE_0",
@@ -860,7 +910,7 @@
       "productTypeIdentifier" : "org.swift.product-type.library.static",
       "type" : "standard"
     },
-    "signature" : "b9a5d94da0a21ec915534d27f8cfd188ad254f4b4b995814324d6311d75bdc54",
+    "signature" : "b56ee871dbe5e20d68af63d86212869ae69b6a0987fd68c1723e137f0392230a",
     "type" : "target"
   },
   {
@@ -1040,6 +1090,24 @@
 
               ],
               "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:showcontrolcore::MAINGROUP::REF_4::REF_1",
+              "guid" : "PACKAGE-TARGET:ShowControlCore--353A13D1FC0E34E6-dynamic::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:showcontrolcore::MAINGROUP::REF_4::REF_2",
+              "guid" : "PACKAGE-TARGET:ShowControlCore--353A13D1FC0E34E6-dynamic::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
             }
           ],
           "guid" : "PACKAGE-TARGET:ShowControlCore--353A13D1FC0E34E6-dynamic::BUILDPHASE_0",
@@ -1065,7 +1133,7 @@
       "productTypeIdentifier" : "com.apple.product-type.library.dynamic",
       "type" : "standard"
     },
-    "signature" : "f79dd10751d9be15ef009f46076c91bb711a1ff7bd035fd77f5e30337fd883fd",
+    "signature" : "c3cefed6a5e82bbd8a66f386e3815b58ece1ae19e98017dcc16ddeb2af6c7e8e",
     "type" : "target"
   },
   {

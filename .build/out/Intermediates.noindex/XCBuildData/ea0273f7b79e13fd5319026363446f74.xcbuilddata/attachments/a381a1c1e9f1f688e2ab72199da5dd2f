@@ -1,0 +1,4 @@
+module ShowControlCore {
+header "ShowControlCore-Swift.h"
+export *
+}
