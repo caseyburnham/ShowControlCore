@@ -8,10 +8,17 @@ let package = Package(
         .macOS(.v15)
     ],
     products: [
-        .library(name: "ShowControlCore", targets: ["ShowControlCore"])
+        .library(name: "ShowControlCore", targets: ["ShowControlCore"]),
+        .library(name: "ShowControlUI", targets: ["ShowControlUI"])
     ],
     targets: [
         .target(name: "ShowControlCore"),
+        // SwiftUI, AppKit and UIKit glue both apps use identically. Main-actor by
+        // default, like the apps themselves.
+        .target(
+            name: "ShowControlUI",
+            swiftSettings: [.defaultIsolation(MainActor.self)]
+        ),
         .testTarget(name: "ShowControlCoreTests", dependencies: ["ShowControlCore"])
     ],
     swiftLanguageModes: [.v6]
